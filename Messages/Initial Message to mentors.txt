@@ -1,0 +1,24 @@
+Hello, I am Naveen a 3rd year Computer science graduate. I would love to contribute to coala as part of `GSOC`. GSOC 2019 is approaching soon and  would like to work on  the project `Handling Nested Language`.
+
+And yes, I do know that this project is really hard and should be attempted by people only who knows what they are actually doing. But I just can't stop thinking about it, The idea seems really great to me and I also know that it would drastically increase the functionality of coala(making it the first linter tool to have multiple language support) and the idea has been constantly bugging me in the back of the head since the time I laid my eyes on it.
+ 
+I would really love to know if you would like to be a `mentor` for the project if I come up with a working solution.
+
+Since I still have lot of time,until GSOC starts, I decided to start working on this project from now  with your kind help we could come up with some idea.
+
+I have been solving issues of coala specifically in `coala-moban` and Jinja2 since past few months in order to understand the codebase of it. And I now do have a idea of the actual working of coala.
+
+Talking with `John `, I gathered few point that he would be happy if I could make a `Linter for Python in Jinja2`.
+
+And I find a abstract way to handle nested languages I thought I could solve the problem of languages individually and then try finding a 
+abstract way after then. So i decided that I first try my hands on linting python in Jinja2,since coala uses this a lot.
+
+My plan for working on the project are as follows. Please give your opinions on it
+
+```
+1. Create a parser for Jinja2 that would emit .py files
+2. Then lint this .py files
+3. On successful completion of this, find a way to implement this functionality into the coala
+```
+
+I know, that the above is not much of a plan, but I was hoping if you could shed some light on it, then it would really help me.

@@ -1,0 +1,15 @@
+Why are you interested in that previous project? *
+
+Why, this project interest me? The reason is simple. User Experience plays a great role for any software. Without a flexible and easy flow it's hard for users to use a software. And this project perfectly aims at bringing out the best features of coala to the users in a colorful and exiting ways. And the other reason being that I have always been intrigued by the inner workings of any software and this software actually touched a lot of core areas of the coala and thus tried to improve on the core functionalities of the project.
+
+----------------------------------------------
+
+What was not completed in that project? Or how should it be extended in order to be more successful? *
+
+The design of the output can be improved for better experience. The output aren't properly visible on extremely light terminal backgrounds. It would be great if the output color changes based on the background color of the terminals. This would improve the visibility. I remember the issues being open about it.
+
+The other issue I came across was with the `-A` action i.e ` --apply-single` action. The output of this argument is without colors, This could be fixed.
+
+The user's are actually not aware of most of the options coala provides. We couls have a definite guide which helps people understand what each and every action does. Though most of the action are self explanatory. But few actions such as `Chain Action` and `Show Applied Action` aren't known to many. And I am afraid if the user is unaware of it, they wouldn't be able to get the most of it.Having a guide which explains all the actions would go a long way.
+
+For now, the users can choose only the options, coala gives them. There are a lot of new user action which can be added. It would be great if we could create a proper framework which would help us add  new actions into coala CLI as and when necessary

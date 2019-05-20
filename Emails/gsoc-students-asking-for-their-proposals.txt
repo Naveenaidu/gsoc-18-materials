@@ -1,0 +1,16 @@
+
+Hi,
+I am Naveen, a junior year computer Science undergraduate from India. I am planning to participate in GSOC 2019 as a student for coala. I have been actively contributing to coala since January 2019.
+
+The Project I am planning to take on is  Handle Nested Programming languages. Going through the past discussions on gitter and the related issues, I found that this project isn't easy as it looks.
+
+I did come up with two approaches to solve the problem but I am not entirely sure if it will work. The reason I am writing this mail, is with a hope that if you had written a proposal as a primary or secondary application for this project during your time of GSOC, I would be highly obliged if you could share the proposal with me. That being said, I respect your decision, if due to any reasons you wouldn't want to share the proposal with me.
+
+Having your proposal would give me an idea on how to or how not to approach the project and will help me  build up better designs pattern and architecture for the project.
+
+I am really sorry for any inconvenience caused and I thank you for your time.
+
+Thank you,
+P . Naveen Naidu
+
+P.S: It would be really great if you could also share the proposal that got selected into GSOC so that I have a better idea on how to write my proposal

@@ -1,0 +1,12 @@
+Hey John, This is regarding `Linting Python in Jinja2`. Sorry for the private message, but I had no other option.
+I have talked to the mentors of `Handling Nested Languages` and Niklas has kindly refused since he won't be active anymore
+and Udayan has not yet replied to the mail/message that I had sent 1 week back maybe because of his busy schedule. I have
+been talking to `@corona10` and he to seems to be busy with his office work.
+
+I have been going through various pages and blogs and I have come up with an idea to solve `Linting Python in Jinja2`. I have wrote
+a detailed text describing about my solution. The link to the document is [here](https://github.com/Naveenaidu/gsoc-docs/blob/master/idea/initial_idea.md). It would be really kind of you if you could please give your opinion about my solution. It would help me get started. 
+
+I have been hitting few road blocks regarding it, but it doesn't concern, because I'll try harder and find a solution to it. But it would
+really help me to know if the way I am approaching the problem is right.
+
+And also, I would like to ask - `If you would be willing to be a mentor of the project. It would be my honor to be your student` ( I don't know if it was right to ask. If it's a wrong thing,I please beg your pardon.)
