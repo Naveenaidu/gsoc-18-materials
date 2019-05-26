@@ -1,0 +1,251 @@
+[I 20:53:09.909 NotebookApp] The port 8888 is already in use, trying another port.
+[I 20:53:09.913 NotebookApp] Serving notebooks from local directory: /home/theprophet/git/coala-repos/coala/coalib/nestedlib
+[I 20:53:09.913 NotebookApp] The Jupyter Notebook is running at:
+[I 20:53:09.913 NotebookApp] http://localhost:8889/?token=814c677bfc32f70adda5e87b9a38a5abc93300fb64597aad
+[I 20:53:09.913 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:53:09.917 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-29734-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=814c677bfc32f70adda5e87b9a38a5abc93300fb64597aad
+[I 20:54:05.710 NotebookApp] Kernel started: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 20:54:07.606 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 20:56:05.703 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:57:10.493 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:30:05.703 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:32:05.696 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:33:45.581 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:4df80456c7b345188381e8d2f9248a8f
+[I 21:33:45.891 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 21:33:46.660 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 21:33:46.660 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:4df80456c7b345188381e8d2f9248a8f
+[I 21:33:46.660 NotebookApp] Replaying 7 buffered messages
+[I 21:34:05.703 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:35:23.551 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:4df80456c7b345188381e8d2f9248a8f
+[I 21:35:23.762 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 21:35:24.549 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 21:35:24.550 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:4df80456c7b345188381e8d2f9248a8f
+[I 21:35:24.550 NotebookApp] Replaying 10 buffered messages
+[I 21:36:05.696 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:38:05.698 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:40:05.699 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:41:31.665 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:42:05.697 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:44:05.741 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:46:05.700 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:58:05.705 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:04:05.706 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:06:05.699 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:08:05.697 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:10:05.750 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:12:05.698 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:17:34.801 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:4df80456c7b345188381e8d2f9248a8f
+[I 22:17:36.045 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:19:36.025 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:26:01.104 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:a48aeb23e0f24cb98bddabd016d0ec1e
+[I 22:26:02.003 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:28:43.546 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:fd1cbc9b24c94fc58fcc042e21983700
+[I 22:28:43.719 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:28:44.443 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:30:14.413 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:6b09309ed4624b03bd9948bb4fd39258
+[I 22:30:15.194 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:30:39.063 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:890fcf290030414d850f22a41862aa11
+[I 22:30:39.226 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:30:40.025 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:30:59.818 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:b8bd3f417a7d4bd9ab1fd39a912c11aa
+[I 22:31:00.713 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:33:28.816 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:aefa16603aa741c1bf58f8e5d4d568c1
+[I 22:33:29.630 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:33:34.902 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:6b3fc72b950a4673a8d0e47dafff5921
+[I 22:33:35.614 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:33:45.414 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:0260bddf640f4fe58453d7a279e21c40
+[I 22:33:45.827 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:33:47.832 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:33:47.833 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:0260bddf640f4fe58453d7a279e21c40
+[I 22:33:47.833 NotebookApp] Replaying 10 buffered messages
+[I 22:34:19.846 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:0260bddf640f4fe58453d7a279e21c40
+[I 22:34:21.401 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:35:08.843 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:b988d74391f04c598d3e299cb087556e
+[I 22:35:08.997 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:35:10.292 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:36:39.795 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:1d46971793de45fb8ba22258716b4621
+[I 22:36:40.682 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:43:14.988 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:a119712c815b4ab2831ead0dd72e73a0
+[I 22:43:16.054 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:43:40.163 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:03df336fce8a48238c975a9408e07473
+[I 22:43:41.249 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:44:12.151 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:d520807c3f1044ddbebf27f62ea12c50
+[I 22:44:12.315 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:44:12.926 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:47:53.857 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:cda2df6fa58242ca85854ec89fb5f48d
+[I 22:47:54.646 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:49:36.448 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:5cd3b558b99e4ae689910c1e59734bcd
+[I 22:49:37.489 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:50:05.412 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:eb315be3c1cd4058ac5d79e76f2dee7c
+[I 22:50:06.129 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:50:17.169 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:08da03911a5a47d7b473a4ecd3d7fecb
+[I 22:50:17.964 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:51:33.706 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:affa94c61e22466a899c5c23230e39de
+[I 22:51:35.232 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:52:29.786 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:13a20d2bf7f7491ba3556fdb46a7b54f
+[I 22:52:30.609 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:52:54.827 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:72868197798148ac8e2cf8bd151d1aa1
+[I 22:52:55.769 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:53:38.807 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:95400a30deb449f19b05da10e6e5cfd0
+[I 22:53:39.795 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:53:42.880 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:d497e97939e945b98afb4058aa48a20f
+[I 22:53:43.633 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:54:10.585 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:dee4c3662206435daf70216bbae6a2a6
+[I 22:54:11.487 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:54:33.429 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:b64ba46d63bb401b9585a950b73f8b93
+[I 22:54:34.620 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:54:43.636 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:a2226710b7f74baaaef06f10be40d3a1
+[I 22:54:44.739 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:55:03.233 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:e5182b6f5f084b5d86d81c158b922aa8
+[I 22:55:03.968 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 22:57:03.949 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:21:03.948 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:23:03.948 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:26:19.534 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:27:03.943 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:35:06.744 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 23:35:06.956 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 23:35:07.746 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 23:35:07.747 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 23:35:07.747 NotebookApp] Replaying 10 buffered messages
+[I 23:35:57.590 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 23:35:57.799 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 23:35:58.571 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 23:35:58.571 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 23:35:58.571 NotebookApp] Replaying 7 buffered messages
+[I 23:37:03.942 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:39:03.945 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:07:03.950 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:09:03.946 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:09:39.440 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:09:39.825 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:09:40.675 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:09:40.676 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:09:40.676 NotebookApp] Replaying 10 buffered messages
+[I 00:11:03.950 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:12:34.204 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:12:34.413 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:12:35.273 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:12:35.274 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:12:35.274 NotebookApp] Replaying 9 buffered messages
+[I 00:13:01.265 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:13:01.639 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:13:02.494 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:13:02.495 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:13:02.495 NotebookApp] Replaying 10 buffered messages
+[I 00:13:03.946 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:15:03.944 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:15:20.279 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:15:20.793 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:15:21.649 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:15:21.650 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:15:21.650 NotebookApp] Replaying 9 buffered messages
+[I 00:16:15.767 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:16:15.976 NotebookApp] Kernel restarted: 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:16:16.807 NotebookApp] Adapting to protocol v5.1 for kernel 47243023-bcd1-426b-a91b-78c961a3bbd6
+[I 00:16:16.808 NotebookApp] Restoring connection for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 00:16:16.808 NotebookApp] Replaying 7 buffered messages
+[I 00:17:03.948 NotebookApp] Saving file at /Untitled.ipynb
+[I 08:48:55.323 NotebookApp] Starting buffering for 47243023-bcd1-426b-a91b-78c961a3bbd6:461d3eed2ef64ff6b5ec902f15abf750
+[I 16:57:06.749 NotebookApp] Serving notebooks from local directory: /home/theprophet/git/coala-repos/coala/coalib/nestedlib
+[I 16:57:06.749 NotebookApp] The Jupyter Notebook is running at:
+[I 16:57:06.749 NotebookApp] http://localhost:8888/?token=8c7f154f6c0e18d7f90e2fc480352d39836497d6de8e5cbe
+[I 16:57:06.749 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:57:06.755 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-12861-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8c7f154f6c0e18d7f90e2fc480352d39836497d6de8e5cbe
+[I 16:57:20.933 NotebookApp] Kernel started: 5d923c38-8d5b-437b-8648-a457eaf96f3b
+[I 16:57:22.147 NotebookApp] Adapting to protocol v5.1 for kernel 5d923c38-8d5b-437b-8648-a457eaf96f3b
+[I 16:57:34.579 NotebookApp] Starting buffering for 5d923c38-8d5b-437b-8648-a457eaf96f3b:5f96c98c06774c8ab6b79d0220f9f500
+[I 16:57:40.242 NotebookApp] Creating new notebook in /parsers
+[I 16:57:42.399 NotebookApp] Kernel started: 3f163ede-1a7a-4c24-89af-1ff08a45c578
+[I 16:57:44.959 NotebookApp] Adapting to protocol v5.1 for kernel 3f163ede-1a7a-4c24-89af-1ff08a45c578
+[I 16:58:50.942 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 16:59:42.414 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:01:42.404 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:03:42.410 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:05:30.254 NotebookApp] Starting buffering for 3f163ede-1a7a-4c24-89af-1ff08a45c578:9c9929721b6a41e888f7268b16d54b9c
+[I 17:05:31.282 NotebookApp] Adapting to protocol v5.1 for kernel 3f163ede-1a7a-4c24-89af-1ff08a45c578
+[I 17:09:31.247 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:11:31.244 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:13:31.245 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:14:21.337 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:15:31.250 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:16:47.827 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:17:31.253 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:19:31.242 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:21:31.249 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:23:31.242 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:27:31.246 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:29:31.250 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:31:31.250 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:31:51.288 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:33:31.247 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:35:31.294 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:37:31.247 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:39:31.248 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:39:34.279 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:40:56.985 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:41:31.244 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:45:31.249 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[I 17:46:23.014 NotebookApp] Saving file at /parsers/Untitled.ipynb
+[W 19:19:33.189 NotebookApp] 404 GET /api/contents/parsers/test-parser.ipynb?type=notebook&content=0&_=1558697730662 (127.0.0.1): No such file or directory: parsers/test-parser.ipynb
+[W 19:19:33.189 NotebookApp] No such file or directory: parsers/test-parser.ipynb
+[W 19:19:33.189 NotebookApp] 404 GET /api/contents/parsers/test-parser.ipynb?type=notebook&content=0&_=1558697730662 (127.0.0.1) 0.76ms referer=http://localhost:8888/notebooks/parsers/Untitled.ipynb?kernel_name=python3
+[I 19:19:33.204 NotebookApp] Uploading file to /parsers/test-parser.ipynb
+                                                                                                                          [I 12:00:27.822 NotebookApp] The port 8888 is already in use, trying another port.
+[I 12:00:27.826 NotebookApp] Serving notebooks from local directory: /home/theprophet/git/coala-repos/coala/coalib/nestedlib
+[I 12:00:27.826 NotebookApp] The Jupyter Notebook is running at:
+[I 12:00:27.826 NotebookApp] http://localhost:8889/?token=94a86d533b5e66f9f5f501995491a1a7d63f46b403c8955c
+[I 12:00:27.826 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:00:27.829 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-18486-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=94a86d533b5e66f9f5f501995491a1a7d63f46b403c8955c
+[I 12:00:43.919 NotebookApp] Kernel started: fa079fcd-bdb5-4846-8e0f-ccc3212c11a9
+[I 12:00:44.784 NotebookApp] Adapting to protocol v5.1 for kernel fa079fcd-bdb5-4846-8e0f-ccc3212c11a9
+[I 12:00:50.285 NotebookApp] Kernel started: eb8519f3-8943-4158-9c51-6d21780ea82a
+[I 12:00:51.158 NotebookApp] Adapting to protocol v5.1 for kernel eb8519f3-8943-4158-9c51-6d21780ea82a
+[I 12:01:32.778 NotebookApp] Starting buffering for fa079fcd-bdb5-4846-8e0f-ccc3212c11a9:554cd61aacd14a29853a51baf376ee8a
+[I 12:09:03.564 NotebookApp] Adapting to protocol v5.1 for kernel fa079fcd-bdb5-4846-8e0f-ccc3212c11a9
+[I 14:26:28.269 NotebookApp] Starting buffering for eb8519f3-8943-4158-9c51-6d21780ea82a:631380a8d66349fc922d20a255249cfe
+[I 18:11:27.154 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:07:49.738 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:08:28.471 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:09:49.732 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:10:24.796 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:11:49.740 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:12:37.874 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:15:49.733 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:25:49.741 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:27:49.736 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:28:33.782 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:29:21.180 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:29:49.733 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:31:14.678 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:31:21.475 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:31:49.734 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:33:45.944 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:33:49.734 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:35:49.739 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:37:49.795 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:39:49.737 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:40:30.872 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:41:49.739 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:43:49.735 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:45:49.735 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:49:49.734 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:51:49.735 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:53:13.995 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 10:57:35.793 NotebookApp] Saving file at /parsers/test-parser.ipynb
+[I 11:03:49.736 NotebookApp] Saving file at /parsers/test-parser.ipynb

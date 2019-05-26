@@ -1,0 +1,9 @@
+{% for x in y %}
+  {% if y in z %}
+    {% set var1 = value1 %}
+  {% elif %}
+    {% set var2 = value2 %}
+  {% else %}
+    {% set var3 = value3 %}
+  {% endif %}{# if y in z #}
+{% endfor %}{# for x in y #}

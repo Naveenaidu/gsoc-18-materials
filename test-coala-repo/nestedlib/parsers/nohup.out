@@ -1,0 +1,15 @@
+[I 11:52:29.301 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 11:52:30.131 NotebookApp] Serving notebooks from local directory: /home/theprophet/git/coala-repos/coala/coalib/nestedlib/parsers
+[I 11:52:30.131 NotebookApp] The Jupyter Notebook is running at:
+[I 11:52:30.131 NotebookApp] http://localhost:8888/?token=404d0745fda4c806e844eae5e9f8f214f60ff4fe80b415bc
+[I 11:52:30.131 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:52:30.135 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-7912-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=404d0745fda4c806e844eae5e9f8f214f60ff4fe80b415bc
+[I 11:52:37.927 NotebookApp] Kernel started: 0b562e4a-44a4-415b-897c-a0ee562773bf
+[I 11:52:38.881 NotebookApp] Adapting to protocol v5.1 for kernel 0b562e4a-44a4-415b-897c-a0ee562773bf
+[I 12:00:21.609 NotebookApp] Starting buffering for 0b562e4a-44a4-415b-897c-a0ee562773bf:6aaabc076c6444348cf155aa8cd6d2be
+[W 14:16:14.434 NotebookApp] 404 GET /tree/parsers (127.0.0.1) 787.99ms referer=None
